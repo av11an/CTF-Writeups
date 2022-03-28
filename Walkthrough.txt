@@ -1,6 +1,0 @@
-Step 1: Observe website
-Step 2: Try robots.txt, robots.txt is a way a website can communicate with web crawling robots. It holds information.
-Step 3: Observe robots.txt
-Step 4: put base64 text into a txt and then decode the file
-Step 5: Observe decoded message.
-Step 6: Change website directory.
